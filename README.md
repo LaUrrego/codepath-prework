@@ -38,6 +38,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+This was my first time using Xcode and working with Swift, so there was a definite learning curve. Movement of data between View Controllers finally made sense after reading about segues. Overall, the accessibility of the storyboard view really made the process approachable, with the color design element just coming to me randomly in the middle of the project. 
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
